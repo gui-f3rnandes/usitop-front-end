@@ -1,0 +1,33 @@
+#navbar{
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    top: 0px;
+    left: 0px;
+    height: 8vh;
+}
+
+#img-nav{
+    position: absolute;
+    left: 20vh;
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.line-list{
+    display: inline-block;
+    margin-left: 3%;
+    margin-right: 3%;
+    color: #4282AA;
+}
+
+#menu-list{
+    position: absolute;
+    right: 0%;
+    width: 85vh;
+    font-size: 16px;
+}
